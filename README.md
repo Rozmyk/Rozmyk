@@ -1,10 +1,8 @@
-Sure! Here's a sample GitHub Readme with icons for your mentioned skills:
 
----
 
-## Hi there, I'm [your name] 👋
+## Hi there, I'm Michał 👋
 
-I'm a [your profession] who enjoys building beautiful and functional web applications. Here are some of my key skills:
+
 
 ### Frontend Development
 
