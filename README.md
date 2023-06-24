@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Food order app](https://github.com/Rozmyk/FoodDeliveryApp)
+- 🔭 I’m currently working on [FoodDeliveryApp](https://github.com/Rozmyk/FoodDeliveryApp)
 
 - 🌱 I’m currently learning **Next.js**
 
