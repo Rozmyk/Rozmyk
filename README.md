@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rozmyk/Rozmyk/output/snake.svg" alt="Snake animation" />
+
 
 ###
