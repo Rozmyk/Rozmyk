@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [Snaply](https://github.com/Rozmyk/Snaply)<br>- 🌱 I’m currently learning <strong>Next.js/MongoDB</strong></p>
+<p align="left">- 🔭 I’m currently working on <a href='https://github.com/Rozmyk/Snaply'> Snaply </a> <br>- 🌱 I’m currently learning <strong>Next.js/MongoDB</strong></p>
 
 ###
 
