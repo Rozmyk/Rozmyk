@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <a href='https://github.com/Rozmyk/Snaply'> Snaply </a> <br>- 🌱 I’m currently learning <strong>Next.js with React Testing Library, Jest, TypeScript</strong></p>
+<p align="left">- 🔭 I’m currently working on <a href='https://github.com/Rozmyk/Snaply'> Snaply </a> <br>- 🌱 I’m currently learning <strong>Next.js with React Testing Library</strong></p>
 
 ###
 
