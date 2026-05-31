@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [https://riqal.pl/blog](https://riqal.pl/blog)
+- 📝 I regularly write articles on [https://riqal.agency/blog](https://riqal.agency/blog)
 
 - 💬 Ask me about **Next js**
 
