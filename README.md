@@ -2,9 +2,13 @@
 
 I mostly code in React, TypeScript and Node.js. I also mess around with ESP32, 3D printing and my homelab.
 
+### Tech
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker,git&perline=7" alt="React, Next.js, TypeScript, Node.js, PostgreSQL, Docker, Git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,nodejs,express,postgres,prisma,docker,githubactions,figma,git&perline=8" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Sass, RxJS, Node.js, Express, PostgreSQL, Prisma, Docker, GitHub Actions, Figma, Git" />
 </p>
+
+Also using Fastify, React Native and Expo.
 
 ### My projects
 
