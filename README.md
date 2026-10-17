@@ -1,31 +1,21 @@
-# Michał / Rozmyk
+# hey, i'm Michał 👋
 
-I work mainly with **React, Next.js and TypeScript**. Recently I've been spending more time on Node.js and React Native, too.
+I like building things — mostly with React, TypeScript and Node.js, but not always for the browser.
 
-At work I've gone from building features to reviewing code, planning changes and helping other developers get things shipped.
+Some projects turn into full apps. Others end up as an ESP32 with too many wires on my desk.
 
-### Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,arduino,docker&perline=8" alt="Some of the tools I use" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,tailwind,docker,git&perline=8" alt="React, Next.js, TypeScript, Node.js, PostgreSQL, Tailwind CSS, Docker, Git" />
-</p>
+### stuff i've made
 
-I also use Prisma, Fastify, Expo and whatever else a project needs.
+**Jobly** — a web app and a mobile version built with Expo. Keeping the repo private for now.
 
-### A few things I've built
+**[Learnify](https://github.com/Rozmyk/learnify)** — courses, lessons and a space for instructors. [try it ↗](https://learnify-ochre.vercel.app/)
 
-**Jobly**  
-My own web + mobile project. Still private while I work on it.
+**[Snaply](https://github.com/Rozmyk/Snaply-CaptureShareConnet)** — posts, messages and the usual social app stuff. [try it ↗](https://snaply-delta.vercel.app/)
 
-**[Learnify](https://github.com/Rozmyk/learnify)** · [Live](https://learnify-ochre.vercel.app/)  
-A learning platform with courses, lessons and an instructor area.
+**[SolarNova](https://github.com/Rozmyk/SolarNova)** — a Next.js site with some GSAP animations. [live ↗](https://solar-nova.vercel.app/)
 
-**[Snaply](https://github.com/Rozmyk/Snaply-CaptureShareConnet)** · [Live](https://snaply-delta.vercel.app/)  
-Social app with posts, profiles and chat.
+### away from the keyboard (sort of)
 
-**[SolarNova](https://github.com/Rozmyk/SolarNova)** · [Live](https://solar-nova.vercel.app/)  
-A Next.js website where I played around with layouts and GSAP animations.
-
----
-
-When I'm not coding, there's a good chance I'm tinkering with an ESP32, Home Assistant or my 3D printer.
+3D printing, ESP32 projects, Home Assistant and finding new reasons to keep my homelab running.
