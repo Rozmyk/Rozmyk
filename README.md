@@ -1,43 +1,21 @@
-<h1 align="center">Hi, I'm Michał 👋</h1>
-<p align="center"><strong>Frontend & Fullstack Developer</strong> · React · Next.js · TypeScript · Node.js</p>
-<p align="center">I build modern web applications with a focus on intuitive interfaces, performance, and maintainable architecture.</p>
+# Hey, I'm Michał 👋
 
----
+I'm a frontend developer from Poland, mostly working with React, Next.js and TypeScript.
 
-### About me
+I've worked on commercial web apps, real-time interfaces and larger frontend projects. I've also been involved in planning technical work and reviewing code. Lately I've been doing more backend work with Node.js and building mobile apps with React Native.
 
-- 💻 Commercial experience building web applications, interactive interfaces, and real-time features.
-- 🧩 I work across the frontend and backend, from UI architecture to APIs and databases.
-- 🤝 I've taken responsibility for technical direction, code reviews, and coordinating development work.
-- 📱 I build mobile interfaces with **React Native** and **Expo**.
-- 🛠️ Outside of web development, I enjoy electronics, home automation, and 3D printing.
+### Stack
 
-### Tech stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, SCSS
+- **Backend:** Node.js, Fastify, Express, PostgreSQL, Prisma
+- **Mobile:** React Native, Expo
+- **Other:** Docker, GitHub Actions, Storybook, Figma
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · SCSS
+### Projects
 
-**Backend & data:** Node.js · Express · Fastify · PostgreSQL · Prisma · REST APIs
+- **Jobly** — a personal project with web and mobile versions. The repository is private for now.
+- **[Learnify](https://github.com/Rozmyk/learnify)** — a course platform with student and instructor features. [Live demo](https://learnify-ochre.vercel.app/)
+- **[Snaply](https://github.com/Rozmyk/Snaply-CaptureShareConnet)** — a social app with posts, profiles and chat. [Live demo](https://snaply-delta.vercel.app/)
+- **[SolarNova](https://github.com/Rozmyk/SolarNova)** — a responsive Next.js website with GSAP animations. [Live demo](https://solar-nova.vercel.app/)
 
-**Mobile:** React Native · Expo
-
-**Tools & workflow:** Git · Docker · GitHub Actions · Figma · Storybook
-
-### Selected projects
-
-| Project | Description | Links |
-| --- | --- | --- |
-| **Jobly** | Personal web and mobile application built with React and React Native (Expo). Repository currently private; more details coming soon. | Coming soon |
-| **Learnify** | Online learning platform with course discovery, enrolment, learning progress, and instructor tools. | [Code](https://github.com/Rozmyk/learnify) · [Demo](https://learnify-ochre.vercel.app/) |
-| **Snaply** | Social application with posts, profiles, messaging, and notifications. | [Code](https://github.com/Rozmyk/Snaply-CaptureShareConnet) · [Demo](https://snaply-delta.vercel.app/) |
-| **SolarNova** | Responsive solar-energy website built with Next.js and animated UI elements. | [Code](https://github.com/Rozmyk/SolarNova) · [Demo](https://solar-nova.vercel.app/) |
-
-### What I like working on
-
-- Interactive and data-rich user interfaces
-- Reusable component systems and accessible UX
-- Fullstack features, integrations, and automation
-- Performance improvements and scalable frontend architecture
-
----
-
-<p align="center">Thanks for stopping by! Feel free to explore my repositories.</p>
+Outside of coding, I mess around with electronics, 3D printing and home automation.
