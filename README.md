@@ -1,21 +1,25 @@
-# hey, i'm Michał 👋
+# Hi, I'm Michał 👋
 
-I like building things — mostly with React, TypeScript and Node.js, but not always for the browser.
+I mostly code in React, TypeScript and Node.js. I also mess around with ESP32, 3D printing and my homelab.
 
-Some projects turn into full apps. Others end up as an ESP32 with too many wires on my desk.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,docker,git&perline=7" alt="React, Next.js, TypeScript, Node.js, PostgreSQL, Docker, Git" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,arduino,docker&perline=8" alt="Some of the tools I use" />
+### My projects
 
-### stuff i've made
+**Jobly**  
+Web app + mobile app in Expo. Repo is private for now.
 
-**Jobly** — a web app and a mobile version built with Expo. Keeping the repo private for now.
+**[Learnify](https://github.com/Rozmyk/learnify)**  
+Online courses platform. [Demo](https://learnify-ochre.vercel.app/)
 
-**[Learnify](https://github.com/Rozmyk/learnify)** — courses, lessons and a space for instructors. [try it ↗](https://learnify-ochre.vercel.app/)
+**[Snaply](https://github.com/Rozmyk/Snaply-CaptureShareConnet)**  
+Social app with chat. [Demo](https://snaply-delta.vercel.app/)
 
-**[Snaply](https://github.com/Rozmyk/Snaply-CaptureShareConnet)** — posts, messages and the usual social app stuff. [try it ↗](https://snaply-delta.vercel.app/)
+**[SolarNova](https://github.com/Rozmyk/SolarNova)**  
+Website built with Next.js and GSAP. [Demo](https://solar-nova.vercel.app/)
 
-**[SolarNova](https://github.com/Rozmyk/SolarNova)** — a Next.js site with some GSAP animations. [live ↗](https://solar-nova.vercel.app/)
+### Other stuff
 
-### away from the keyboard (sort of)
-
-3D printing, ESP32 projects, Home Assistant and finding new reasons to keep my homelab running.
+Home Assistant, ESPHome, 3D printing, electronics. Usually have a couple of unfinished projects going on.
